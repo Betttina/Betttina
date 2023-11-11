@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, foucsing e-commerce. 
 - 🌱 I’m currently learning HTML, CSS, Javascript, PHP and MySQL
 - 
-- 📫 How to reach me ... 
+- 📫 
 
 <!---
 Betttina/Betttina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
