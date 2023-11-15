@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Betttina
+- 👋 Hi, I’m @Betttina ≽^•⩊•^≼
 - 👀 I’m interested in web development, foucsing e-commerce. 
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP and MySQL
-- 
+- 🚀 Experience: HTML, CSS, Javascript, React, Node.js
+- 🌱 I’m currently learning  PHP and MySQL
+  
 - 📫 
 
 <!---
