@@ -3,7 +3,7 @@
 - 🚀 Experience: HTML, CSS, Javascript, React, Node.js
 - 🌱 I’m currently learning  PHP and MySQL
   
-- 📫 
+
 
 <!---
 Betttina/Betttina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
