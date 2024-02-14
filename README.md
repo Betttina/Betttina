@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Betttina ≽^•⩊•^≼
 - 👀 I’m currently studying web development, foucsing e-commerce, @gritacademy.
 - 🚀 Experience: HTML, CSS, Javascript, React, Node.js
-- 🌱 I’m currently learning  PHP and MySQL
+- 🌱 I’m currently learning  PHP and MySQL for Wordpress and WooCommerce development
   
 
 
