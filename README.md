@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Betttina ≽^•⩊•^≼
 - 🖱️ I’m currently studying web development, focusing e-commerce. 🛒🛍️
 
-- 🌱 I’m currently learning: Wordpress+WooCommerce+Shopify 
+- 🌱 I’m currently learning: Wordpress+WooCommerce and Shopify. 
 
 - 🚀 Experience: HTML, CSS, Javascript, React, Node.js, express.js, PHP, MySQL, Sass, Liquid.
   
