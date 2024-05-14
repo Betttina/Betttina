@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: Wordpress+WooCommerce and Shopify. 
 
-- 🚀 Experience: HTML, CSS, Javascript, React, Node.js, express.js, PHP, MySQL, Sass, Liquid.
+- 🚀 Experience: Sass, Javascript, React, Node.js, express.js, PHP, MySQL, Liquid, MongoDB.
   
 
 
